@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework 2 - Test Practice</string>
+    <string name="itemName">VINTAGE BICYCLE</string>
+    <string name="colorLabel">COLOR</string>
+    <string name="descriptionLabel">DESCRIPTION</string>
+    <string name="descriptionDetail"> High quality city bike. Aliminum wheels and carbon fiber frame.
+        VeloPlus speed system that ensures smotth and precise changes. Available in different colours and
+        sizes.</string>
+    <string name="measurementLabel">MEASUREMENT</string>
+    <string name="measurementDetail">This bicycle compiles with the highest standards of resistance and
+        weight; each piece is custom made and is subjected to individual tests to ensure its correct
+        function. Two year warranty.</string>
+    <string name="smallSize">S</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">L</string>
+    <string name="extraSize">XL</string>
+    <string name="buttonText">ADD TO CART</string>
+    <string name="buttonText_added">ADDED TO CART</string>
+    <string name="toastText">+1 to Vintage Bicycle</string>
+    <string name="snackbarText">Added to cart</string>
+    <string name="snackbarText_added">Item is already in Cart</string>
+    <string name="undoLabel">UNDO</string>
+</resources>

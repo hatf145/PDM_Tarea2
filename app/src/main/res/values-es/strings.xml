@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tarea 2 - Práctica Examen</string>
+    <string name="itemName">BICICLETA VINTAGE</string>
+    <string name="colorLabel">COLOR</string>
+    <string name="descriptionLabel">DESCRIPCIÓN</string>
+    <string name="descriptionDetail">Bicicleta de ciudad de alta calidad. Rines de aluminio y
+        marco de fibra de carbón. Sistema de velocidades VeloPlus que asegura cambios suaves y
+        precisos. Disponible en distintos colores y tamaños.</string>
+    <string name="measurementLabel">DETALLE</string>
+    <string name="measurementDetail">Esta bicicleta cumple con los más altos estandares de
+        resistencia y peso; cada pieza esta hecha a la medida y se somete a pruebas individuales
+        para asegurar su correcto funcinamiento. Garantía de dos años.</string>
+    <string name="smallSize">P</string>
+    <string name="mediumSize">M</string>
+    <string name="largeSize">G</string>
+    <string name="extraSize">EG</string>
+    <string name="buttonText">AGREGAR AL CARRITO</string>
+    <string name="buttonText_added">AGREGADO AL CARRITO</string>
+    <string name="toastText">+1 a Bicicleta Vintage</string>
+    <string name="snackbarText">Agregado al carrito.</string>
+    <string name="snackbarText_added">El elemento ya está en el carrito.</string>
+    <string name="undoLabel">DESHACER</string>
+</resources>

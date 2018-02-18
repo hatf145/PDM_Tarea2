@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTextSize">20sp</dimen>
+    <dimen name="textSize">15sp</dimen>
+    <dimen name="padding">10sp</dimen>
+    <dimen name="iconSize">35sp</dimen>
+    <dimen name="nodesMargin">5sp</dimen>
+    <dimen name="strokeWidth">1sp</dimen>
+    <dimen name="radius">5sp</dimen>
+    <dimen name="imageSize">200sp</dimen>
+</resources>
